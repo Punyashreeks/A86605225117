@@ -5,3 +5,5 @@ This text was edited in branch2.
 Project Name: Git Branching Demo
 
 Purpose: Demonstrate branching and merging.
+
+Author: Punya
