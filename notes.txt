@@ -3,4 +3,18 @@ This text was added in branch2..
 =======
 This is a sample text file.
 
+<<<<<<< HEAD
 This text was edited in branch
+=======
+This text was edited in branch2.
+
+<<<<<<< HEAD
+>>>>>>> branch2
+=======
+Project Name: Git Branching Demo
+
+Purpose: Demonstrate branching and merging.
+
+Author: Punya
+>>>>>>> branch2
+>>>>>>> branch3
