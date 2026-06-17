@@ -13,3 +13,13 @@ int main() {
     return 0;
 }
 
+#include <stdio.h>
+
+int main() {
+    int num;
+    printf("Welcome to Git Demo Program\n");
+    printf("Enter a number: ");
+    scanf("%d", &num);
+    return 0;
+}
+
