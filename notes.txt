@@ -3,6 +3,4 @@ This text was added in branch2..
 =======
 This is a sample text file.
 
-This text was edited in branch2.
-
->>>>>>> branch2
+This text was edited in branch
