@@ -44,3 +44,11 @@ printf("Marks = %d",marks);
 void displayMessage() {
     printf("Welcome User!\n");
 }
+
+
+
+displayMessage();
+
+if(num < 0) {
+    printf("Negative number entered\n");
+}
