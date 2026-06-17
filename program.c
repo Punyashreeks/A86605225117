@@ -56,3 +56,5 @@ if(num < 0) {
 
 
 printf("Square: %d\n", num*num);
+
+printf("Program completed successfully\n");
