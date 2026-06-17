@@ -5,4 +5,12 @@ This is a sample text file.
 
 This text was edited in branch2.
 
+<<<<<<< HEAD
+>>>>>>> branch2
+=======
+Project Name: Git Branching Demo
+
+Purpose: Demonstrate branching and merging.
+
+Author: Punya
 >>>>>>> branch2
