@@ -3,3 +3,5 @@ This is a sample text file.
 This text was edited in branch2.
 
 Project Name: Git Branching Demo
+
+Purpose: Demonstrate branching and merging.
