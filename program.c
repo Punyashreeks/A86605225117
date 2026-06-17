@@ -28,7 +28,7 @@ int main() {
 int main() {
     int num;
     printf("Welcome to Git Demo Program\n");
-    printf("Enter a number: ");
+    printf("Student Management System\n");
     scanf("%d", &num);
     printf("You entered: %d\n", num);
     return 0;
