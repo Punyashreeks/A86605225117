@@ -52,3 +52,7 @@ displayMessage();
 if(num < 0) {
     printf("Negative number entered\n");
 }
+
+
+
+printf("Square: %d\n", num*num);
