@@ -28,9 +28,33 @@ int main() {
 int main() {
     int num;
     printf("Welcome to Git Demo Program\n");
-    printf("Enter a number: ");
+    printf("Student Management System\n");
     scanf("%d", &num);
     printf("You entered: %d\n", num);
     return 0;
 }
 
+int marks;
+
+printf("Enter marks: ");
+scanf("%d",&marks);
+printf("Marks = %d",marks);
+
+
+void displayMessage() {
+    printf("Welcome User!\n");
+}
+
+
+
+displayMessage();
+
+if(num < 0) {
+    printf("Negative number entered\n");
+}
+
+
+
+printf("Square: %d\n", num*num);
+
+printf("Program completed successfully\n");
